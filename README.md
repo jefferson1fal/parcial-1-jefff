@@ -1,0 +1,1 @@
+se me complico subir el codigo al repositorio porque visual no me subia nada , ningun archivo y logre subirlo pero a comparacion de los tutoriales de youtube no sale igual los archivos, ami me aparecen mas, pero ahi esta el codigo.
